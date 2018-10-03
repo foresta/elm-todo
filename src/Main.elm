@@ -25,9 +25,10 @@ main =
 
 
 -- MODEL
-
-Type Model
-    = Tasks Tasks.Model
+{-
+   Type Model
+       = Tasks Tasks.Model
+-}
 
 
 type alias Model =
